@@ -1,0 +1,24 @@
+#container {
+    margin: auto;
+    display: block;
+    width: 1024px;
+}
+
+
+.ninja {
+    border: 3px solid black;
+    margin: 5px;
+    background: linear-gradient(aqua, powderblue);
+}
+
+.btn {
+    border: 3px solid black;
+    display: block;
+    margin: auto;
+    width: 75px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    background: linear-gradient(gray, lightgray);
+}
